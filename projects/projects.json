@@ -1073,6 +1073,29 @@
       ]
     },
     {
+      "name": "ng-admin",
+      "thumb": "ng-admin/thumb.png",
+      "desc": "Add an AngularJS admin GUI to any RESTful API",
+      "url": "https://github.com/marmelab/ng-admin",
+      "info": "http://ng-admin.marmelab.com/",
+      "src": "https://github.com/marmelab/ng-admin",
+      "submitter": "fzaninotto",
+      "submissionDate": "2015-02-15",
+      "tags": [
+        "REST",
+        "RESTful",
+        "API",
+        "admin",
+        "GUI",
+        "Restangular",
+        "Open Source",
+        "Responsive",
+        "Tests Included",
+        "Bootstrap",
+        "User Interface"
+      ]
+    },
+    {
       "name": "Tag Cloud Search + Translate",
       "thumb": "tagcloud/thumb.png",
       "desc": "Tag Cloud is an extension for Chrome that creates, for any web page displayed in your Chrome browser, a Tag Cloud with the 100 most often used words, providing a quick synthesis of every page you browse, in less than a second, and with only one click.",
